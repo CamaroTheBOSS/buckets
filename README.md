@@ -1,0 +1,1 @@
+Algorithm for filling your bath with buckets. It will return you optimal solution (instructions with steps) for given conditions (bucket capacities and target water amount) if such solution exists. Otherwise it will give you instructions for fulfilling a bath as much as it's possible.
