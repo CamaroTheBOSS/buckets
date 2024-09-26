@@ -134,7 +134,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bucket.h" />
-    <ClInclude Include="bucket_test.h" />
     <ClInclude Include="operator.h" />
     <ClInclude Include="tests.h" />
   </ItemGroup>

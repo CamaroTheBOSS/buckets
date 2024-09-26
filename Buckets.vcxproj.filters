@@ -29,9 +29,6 @@
     <ClInclude Include="bucket.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
-    <ClInclude Include="bucket_test.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="operator.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
